@@ -2,9 +2,14 @@ Claro, posso te ajudar a organizar o seu arquivo Markdown. Aqui está uma versã
 
 # Análise Exploratória de Dados no Dataset The Bread Basket 
 
-Este repositório é dedicado à análise exploratória de dados no dataset "The Bread Basket".
+Este repositório é dedicado à análise exploratória de dados no dataset "French bakery daily sales".
 
-Link do Dataset: [The Bread Basket Dataset](https://www.kaggle.com/datasets/mittalvasu95/the-bread-basket)
+Link do Dataset: [French bakery daily sales](https://www.kaggle.com/datasets/matthieugimbert/french-bakery-daily-sales)
+
+# Caso queira conhecer mais sobre padarias, recomendo explorar os seguintes datasets
+Link do Dataset1: [The Bread Basket Dataset](https://www.kaggle.com/datasets/mittalvasu95/the-bread-basket)
+
+Link do Dataset2: [Coffee Shop Sales](https://www.kaggle.com/code/ahmedabbas757/coffee-shop-sales/input) 
 
 ## Pré-Requisitos
 
