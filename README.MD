@@ -36,3 +36,9 @@ Siga estas instruções para configurar seu ambiente:
         ```
 
 Com estes passos, seu ambiente estará configurado e pronto para executar a análise exploratória de dados neste dataset.
+
+
+## Conclusões sobre os dados
+* O crescimento no número de vendas dispara a partir de aproximadamente 8h da manhã até por volta das 11:30.  Partindo de tal ponto começa a queda no número de vendas, onde até 13h ainda vale a pena manter a loja aberta. A partir das 13h o número de vendas é bem reduzido.
+* Traditional Baguete se provou ser o produto mais relevante quando analisamos faturamento e número de vendas.
+* Percebeu-se um padrão no aumento relevante do número de vendas entre os meses de abril e julho, com decaimento para o normal por volta de setembro. Este acontecimento aparenta ser um padrão com base nos dados de 2021 e 2022.
